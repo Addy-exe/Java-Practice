@@ -1,2 +1,2 @@
 # Java-Practice
-Java Repo for Quick Reference or Practice
+Java Repo for Quick Reference And Practice
